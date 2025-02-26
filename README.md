@@ -1,3 +1,9 @@
+**KAVITHA M**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**: CT08WEB
+**Domain**: PYTHON PROGRAMMING 
+**Duration**: FEB 25th 2025 to MARCH 25th, 2025
+
 # Support Vector Machine – SVM From Scratch Python
 
 ![Support Vector Machine – SVM From Scratch Python](https://user-images.githubusercontent.com/40186859/186307013-a414ceb5-c413-47c8-8979-b5679160cc80.png)
