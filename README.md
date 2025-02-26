@@ -47,7 +47,6 @@ And now, the data are two dimensional, we can draw a Support Vector Classifier t
 
 ![upport Vector Classifier](https://user-images.githubusercontent.com/40186859/187906664-46375425-a7f2-4a4e-86cb-0a9c6fdba9cf.png)
 
-**_Note_**: This example is taken from [Statquest](https://www.youtube.com/watch?v=efR1C6CvhmE).
 
 ## HOW TO TRANSFORM DATA ??
 
@@ -76,7 +75,7 @@ For large values of C, the optimization will choose a smaller-margin hyperplane 
 Due to the presence of some outliers, the hyperplane can’t classify the data points region correctly. In this case, we use a soft margin & C hyperparameter.
 
 ## SVM IMPLEMENTATION IN PYTHON
-In this tutorial, we will be using to implement our SVM algorithm is the Iris dataset. You can download it from this [link](https://www.kaggle.com/code/jchen2186/machine-learning-with-iris-dataset/data). Since the Iris dataset has three classes. Also, there are four features available for us to use. We will be using only two features, i.e Sepal length, and Sepal Width.
+In this tutorial, we will be using to implement our SVM algorithm is the Iris dataset. You can download it from this. Since the Iris dataset has three classes. Also, there are four features available for us to use. We will be using only two features, i.e Sepal length, and Sepal Width.
 
 ![different kernel on Iris Dataset SVM](https://user-images.githubusercontent.com/40186859/187913255-110ac430-d9d6-4534-a014-22f8a5ecfa00.png)
 
