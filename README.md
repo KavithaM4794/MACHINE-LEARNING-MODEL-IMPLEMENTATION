@@ -7,6 +7,9 @@
 **Domain**: PYTHON PROGRAMMING 
 
 **Duration**: FEB 25th 2025 to MARCH 25th, 2025
+
+**Mentor Name**:  Neela Santhosh 
+
 ----
 
 # Support Vector Machine – SVM From Scratch Python
